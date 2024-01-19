@@ -19,6 +19,5 @@
       <input type="submit" value="send"></input>
     </form>
 
-    <%-- <%= 10/0 %> --%>
   </body>
 </html>
